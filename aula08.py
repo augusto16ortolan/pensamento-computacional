@@ -9,7 +9,7 @@ from funcoes import soma, subtrai
 
 # Dicionários
 
-#alterado
+#alterado   sdsd
 
 endereco = {
     'rua': "teste",
