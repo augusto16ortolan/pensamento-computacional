@@ -10,7 +10,7 @@ from funcoes import soma, subtrai
 # Dicionários
 
 #alterado
-
+#altercao
 endereco = {
     'rua': "teste",
     'numero': 123
