@@ -13,6 +13,8 @@ from datetime import datetime
 # def diga_seu_some(nome):
 #     print(nome)
 
+#alteracao
+
 # w = write = escrever, só que vai sobrescrever
 # a = append = escrever, só que vai adicionar no final do arquivo
 # r = read = ler, só vai poder ler o arquivo
