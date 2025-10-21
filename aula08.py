@@ -9,6 +9,8 @@ from funcoes import soma, subtrai
 
 # Dicionários
 
+#alterado
+
 endereco = {
     'rua': "teste",
     'numero': 123
