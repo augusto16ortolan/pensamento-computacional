@@ -4,7 +4,7 @@ git add <nome_do_arquivo> - adiciona um arquivo na versao
 git add . - adiciona todas as mudanças
 git commit -m "mensagem" - salvando as alterações localmente
 git push - envia as modificações para o repositorio
-
+git pull - busca as alterações que tem no repositorio
 
 Primeira configuração do repositório:
 git remote add origin <link_do_repositorio> - linka o repositorio local com o github
