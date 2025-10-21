@@ -59,6 +59,7 @@
 # print(lista[primeiro_indice:indice_do_meio])
 # print(lista[indice_do_meio:ultimo_indice])
 
+
 #Matrizes
 # lista = [1, 2, 3, 4, 5]
 # matriz = [[1, 2, 3],[4, 5, 6],[7, 8, 9]]

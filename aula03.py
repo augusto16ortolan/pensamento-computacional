@@ -53,6 +53,7 @@ def soma(numero1, numero2):
 def imprimirIdadeNaFrase(idade, frase):
     print(f"{frase} - {idade}")
 
+
 def verificarIdade(idade):
     if (idade >= 18):
         imprimirIdadeNaFrase(idade, "É um adulto")

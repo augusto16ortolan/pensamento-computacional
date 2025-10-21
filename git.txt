@@ -1,3 +1,12 @@
 git init - inicializa o repositório
 git status - verifica os arquivos adicionados ou a serem adicionados
 git add <nome_do_arquivo> - adiciona um arquivo na versao
+git add . - adiciona todas as mudanças
+git commit -m "mensagem" - salvando as alterações localmente
+git push - envia as modificações para o repositorio
+
+
+Primeira configuração do repositório:
+git remote add origin <link_do_repositorio> - linka o repositorio local com o github
+git branch -M main - define qual vai ser a nomeação da branch principal
+git push -u origin main - faz o envio do nosso codigo commitado para o repositorio
