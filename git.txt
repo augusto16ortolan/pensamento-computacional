@@ -1,0 +1,3 @@
+git init - inicializa o repositório
+git status - verifica os arquivos adicionados ou a serem adicionados
+git add <nome_do_arquivo> - adiciona um arquivo na versao
